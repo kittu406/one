@@ -60,4 +60,5 @@ jobs:
           app-name: 'mustafa77'
           slot-name: 'Production'
           package: '*.jar'
+
           
